@@ -1,4 +1,4 @@
-# DIO Challenge - Facial recognition and transforming images into data in Azure ML
+# DIO Challenge --- Facial recognition and transforming images into data in Azure ML
 
 ## Step by Step: 
 ### Creating an Azure AI Services Resource:
