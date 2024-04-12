@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "71ef40e7-3157-47c2-935d-2ba2f399621c",
+    "content-length": "162",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a cat wearing a suit and a necklace",
+      "confidence": 0.7118695378303528
+    },
+    "metadata": {
+      "width": 615,
+      "height": 418
+    }
+  }

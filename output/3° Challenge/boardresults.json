@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "bac83bc2-ba89-4286-90ec-483f8b50a7c2",
+    "content-length": "147",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a man holding a sign",
+      "confidence": 0.8526250720024109
+    },
+    "metadata": {
+      "width": 313,
+      "height": 161
+    }
+  }
